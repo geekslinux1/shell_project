@@ -1,0 +1,1 @@
+qemu-system-ppc64 -cpu POWER7 -machine pseries -m 2G cap-htm=off -serial mon:stdio -cdrom AIX513.iso -d guest_errors -prom-env "input-device=/vdevice/vty@71000000" -prom-env "output-device=/vdevice/vty@71000000" -prom-env "boot-command=dev / 0 0 s\" ibm,aix-diagnostics\" property boot cdrom:\ppc\chrp\bootfile.exe -s verbose"
