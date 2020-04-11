@@ -1,3 +1,2 @@
 this is a text file for testing stats. created by admin
 
-New text added from Remote repository.
