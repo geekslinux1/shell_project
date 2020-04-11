@@ -1,12 +1,2 @@
 this is a text file for testing stats. created by admin
 
-edited stats file for adding new information.
-
-linux administration
-
-aix administration
-
-webshphere administration
-
-apache admin
-
